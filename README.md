@@ -1,27 +1,44 @@
 # Telecom-Churn-Analysis
 # 📊 Telecom Customer Churn Analysis
 
-## 📌 Project Overview
-This project analyzes customer churn in a telecom company using Python, SQL Server, and Power BI.
+> A complete Data Analysis project using **Python**, **SQL Server**, and **Power BI** to identify customer churn patterns and generate business insights.
 
-## 🛠 Tools Used
-- Python
-- SQL Server
-- Power BI
-- Pandas
-- Matplotlib
-- Seaborn
+---
+
+## 🚀 Tools Used
+
+🐍 Python  
+🗄️ SQL Server  
+📊 Power BI  
+📑 Pandas  
+📈 Matplotlib & Seaborn  
+
+---
 
 ## 📂 Project Files
-- 📓 project_nti.ipynb
-- 🗄️ Project (1).sql
-- 📊 project.pbix
-- 📄 Telecom Churn Insights Platform.pdf
-- 📁 WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+📓 `project_nti.ipynb` – Python Analysis
+
+🗄️ `Project (1).sql` – SQL Queries
+
+📊 `project.pbix` – Power BI Dashboard
+
+📁 `WA_Fn-UseC_-Telco-Customer-Churn.csv` – Dataset
+
+---
 
 ## 💡 Key Insights
-- Month-to-Month contracts have the highest churn.
-- Fiber Optic customers are more likely to churn.
-- Higher Monthly Charges are associated with higher churn.
-- Short-tenure customers are more likely to leave.
-- Tech Support and Online Security help reduce churn.
+
+✅ Customers with **Month-to-Month** contracts have the highest churn.
+
+✅ **Fiber Optic** customers are more likely to leave.
+
+✅ Customers with **higher Monthly Charges** have higher churn.
+
+✅ Customers with **short tenure** are at greater risk of churn.
+
+✅ **Online Security** and **Tech Support** help reduce churn.
+
+---
+
+⭐ **If you like this project, don't forget to give it a Star!**
