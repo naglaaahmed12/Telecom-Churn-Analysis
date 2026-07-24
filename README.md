@@ -1,4 +1,4 @@
-# Telecom-Churn-Analysis
+# Telecom-Customer-Churn-Analysis
 # 📊 Telecom Customer Churn Analysis
 
 > A complete Data Analysis project using **Python**, **SQL Server**, and **Power BI** to identify customer churn patterns and generate business insights.
